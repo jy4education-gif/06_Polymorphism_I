@@ -6,7 +6,7 @@ public class HoneyBee{
     return "I'm a HoneyBEE!!";
    } 
 
-   puplic String fly(){
+   public String fly(){
     return "I can fly!!";
    }
 
