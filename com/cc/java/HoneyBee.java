@@ -3,7 +3,7 @@ package com.cc.java;
 public class HoneyBee{
     
    public String doYourJob(){
-    return "I'm THE HoneyBEE!!";
+    return "I'm the THE aka HoneyBEE!!";
    } 
 
    public String fly(){

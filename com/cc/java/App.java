@@ -6,7 +6,7 @@ public class App {
      
         Queen queen = new Queen();
         Worker worker = new Worker();            // Instanziierung, Keyword "new" -> Heap + Konstruktor z.b. "Worker()" der das Objekt "new Worker()" erzeugt
-        Drone drone = new Drone();   
+        Drone drone = new Drone();              // -> Upcasting  -> Downcasting 
 
     //     /* 1. Iteration  */
 
