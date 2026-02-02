@@ -7,4 +7,9 @@ public class Queen extends HoneyBee{
         return "Ich bin der Boss! <( 'o' )>";
     }    
 
+    @Override
+    public String fly() {
+        return "Ich bin die Königin, ich hab's nicht nötig zu fliegen!";
+    }    
+
 }
